@@ -1,8 +1,8 @@
 ## Internship Assignments
 ------
-####Bank Application Assignment:
+#### Bank Application Assignment:
 
-#####Explaination/Approach:
+##### Explaination/Approach:
 
 - Learned and created real time bank process flow chart.
 - Create console based application.
