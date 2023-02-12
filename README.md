@@ -2,7 +2,7 @@
 ------
 #### Bank Application Assignment:
 
-##### Explaination/Approach:
+##### Explanation/Approach:
 
 - Learned and created real time bank process flow chart.
 - Create console based application.
